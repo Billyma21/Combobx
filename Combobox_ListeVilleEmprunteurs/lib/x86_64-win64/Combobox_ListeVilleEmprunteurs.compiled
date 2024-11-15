@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\Users\Acer\Desktop\Lazarus_17_11_2022\Combobox_ListeVilleEmprunteurs\lib\x86_64-win64 -FuC:\lazarus\components\sqldb\lib\x86_64-win64\win32 -FuC:\lazarus\components\ideintf\units\x86_64-win64\win32 -FuC:\lazarus\components\synedit\units\x86_64-win64\win32 -FuC:\lazarus\components\lazcontrols\lib\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\codetools\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\Users\Acer\Desktop\Lazarus_17_11_2022\Combobox_ListeVilleEmprunteurs\ -FUC:\Users\Acer\Desktop\Lazarus_17_11_2022\Combobox_ListeVilleEmprunteurs\lib\x86_64-win64\ -FEC:\Users\Acer\Desktop\Lazarus_17_11_2022\Combobox_ListeVilleEmprunteurs\ -oC:\Users\Acer\Desktop\Lazarus_17_11_2022\Combobox_ListeVilleEmprunteurs\Combobox_ListeVilleEmprunteurs.exe -dLCL -dLCLwin32 Combobox_ListeVilleEmprunteurs.lpr"/>
+</CONFIG>
